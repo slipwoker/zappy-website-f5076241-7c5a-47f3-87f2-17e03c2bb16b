@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://noami-f5076241.zappy5.app
+https://example.com
 תכשיטים ואביזרים אונליין שנועדו בדיוק בשבילך! נוami מציעה קולקציות צבעוניות ועדכניות לנערות צעירות שאוהבות לבלוט. הזמיני עכשיו וקבלי סטייל אמיתי!
 
 ### נושאי אוספים
-https://noami-f5076241.zappy5.app/collections-themes
+https://example.com/collections-themes
 פרחים, קיץ ויהלומים — כל אוסף של Noami מספר סיפור משלו. גלי תכשיטים ואביזרים אונליין עם אישיות ייחודית שמתאימה בדיוק לסגנון שלך. בחרי את האוסף שלך היום!
 
 ### אודות
-https://noami-f5076241.zappy5.app/about
+https://example.com/about
 Noami היא לא רק מותג תכשיטים — זו תנועה של סטייל, ביטוי עצמי ואופנה צעירה. גלי מי אנחנו, מה מניע אותנו ולמה אלפי נערות בוחרות בנו לאביזרים ותכשיטים אונליין.
 
 ### צור קשר
-https://noami-f5076241.zappy5.app/contact
+https://example.com/contact
 יש שאלה על תכשיטים ואביזרים אונליין? רוצה לדעת איזה אוסף מתאים לך? צוות Noami כאן בשבילך! צרי קשר עכשיו ונשמח לעזור לך למצוא את התכשיט שיגרום לך לזרוח.
 
 ### Products
-https://noami-f5076241.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Noami
 
 ### Cart
-https://noami-f5076241.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://noami-f5076241.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://noami-f5076241.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://noami-f5076241.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://noami-f5076241.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://noami-f5076241.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Noami
 
 ### Category
-https://noami-f5076241.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Noami
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://noami-f5076241.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://noami-f5076241.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://noami-f5076241.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Jewelry & Accessories
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://noami-f5076241.zappy5.app/sitemap.xml
-- Robots: https://noami-f5076241.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://noami-f5076241.zappy5.app/llms-full.txt
-- Products (JSON): https://noami-f5076241.zappy5.app/products.json
-- Products (Google Merchant RSS): https://noami-f5076241.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

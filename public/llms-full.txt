@@ -2,13 +2,13 @@
 
 A stylish and trendy jewelry brand targeting young women and teenage girls, offering vibrant collections with distinct themes such as flowers, summer, and diamonds. The brand has a youthful, fashionable energy with a focus on aesthetic appeal and modern style. The collections suggest a playful yet elegant identity, designed to resonate with trend-conscious young women who love accessorizing with personality.
 
-Source: https://noami-f5076241.zappy5.app
+Source: https://example.com
 
 ---
 
 ## jewelry accessories online — Noami
 
-URL: https://noami-f5076241.zappy5.app
+URL: https://example.com
 Description: תכשיטים ואביזרים אונליין שנועדו בדיוק בשבילך! נוami מציעה קולקציות צבעוניות ועדכניות לנערות צעירות שאוהבות לבלוט. הזמיני עכשיו וקבלי סטייל אמיתי!
 
 jewelry accessories online — Noami
@@ -563,7 +563,7 @@ Noami ✦ New Season
 
 ## נושאי אוספים שיגנבו את הלב — Noami
 
-URL: https://noami-f5076241.zappy5.app/collections-themes
+URL: https://example.com/collections-themes
 Description: פרחים, קיץ ויהלומים — כל אוסף של Noami מספר סיפור משלו. גלי תכשיטים ואביזרים אונליין עם אישיות ייחודית שמתאימה בדיוק לסגנון שלך. בחרי את האוסף שלך היום!
 
 נושאי אוספים שיגנבו את הלב — Noami
@@ -1040,7 +1040,7 @@ Description: פרחים, קיץ ויהלומים — כל אוסף של Noami מ
 
 ## הסיפור מאחורי הנצנוץ שלנו — Noami
 
-URL: https://noami-f5076241.zappy5.app/about
+URL: https://example.com/about
 Description: Noami היא לא רק מותג תכשיטים — זו תנועה של סטייל, ביטוי עצמי ואופנה צעירה. גלי מי אנחנו, מה מניע אותנו ולמה אלפי נערות בוחרות בנו לאביזרים ותכשיטים אונליין.
 
 הסיפור מאחורי הנצנוץ שלנו — Noami
@@ -1486,7 +1486,7 @@ Noami נולדה מתוך אהבה עמוקה לפרטים הקטנים שהופ
 
 ## דברי איתנו ונמצא לך את המושלם — Noami
 
-URL: https://noami-f5076241.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על תכשיטים ואביזרים אונליין? רוצה לדעת איזה אוסף מתאים לך? צוות Noami כאן בשבילך! צרי קשר עכשיו ונשמח לעזור לך למצוא את התכשיט שיגרום לך לזרוח.
 
 דברי איתנו ונמצא לך את המושלם — Noami
@@ -2071,7 +2071,7 @@ Description: יש שאלה על תכשיטים ואביזרים אונליין? 
 
 ## מוצרים
 
-URL: https://noami-f5076241.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Noami
 
 מוצרים - Noami
@@ -2308,7 +2308,7 @@ Description: המוצרים שלנו - Noami
 
 ## עגלת קניות
 
-URL: https://noami-f5076241.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Noami
@@ -2521,7 +2521,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://noami-f5076241.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Noami
@@ -2917,7 +2917,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://noami-f5076241.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Noami
@@ -3137,7 +3137,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://noami-f5076241.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Noami
@@ -3512,7 +3512,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://noami-f5076241.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Noami
@@ -3749,7 +3749,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://noami-f5076241.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Noami
@@ -4015,7 +4015,7 @@ Noami מחויבת לשביעות רצון לקוחותיה. מדיניות זו
 
 ## פרטי המוצר
 
-URL: https://noami-f5076241.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Noami
 
 פרטי המוצר - Noami
@@ -4230,7 +4230,7 @@ Description: פרטי המוצר - Noami
 
 ## מוצרים
 
-URL: https://noami-f5076241.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Noami
 
 מוצרים - Noami
@@ -4469,7 +4469,7 @@ Description: מוצרים - Noami
 
 ## מדיניות פרטיות
 
-URL: https://noami-f5076241.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4726,7 +4726,7 @@ Noami ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 
 ## הצהרת נגישות
 
-URL: https://noami-f5076241.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4992,7 +4992,7 @@ Noami מחויבת להנגיש את השירותים לכלל הציבור. א�
 
 ## תנאי שימוש
 
-URL: https://noami-f5076241.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
