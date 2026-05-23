@@ -248,7 +248,7 @@
     <link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon-512x512.png">
     <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
     <!-- Cookie Consent -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
@@ -348,16 +348,16 @@
       <div class="search-wrapper">
         <input type="text" id="mobile-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
         <button class="search-submit" id="mobile-search-submit" title="חיפוש">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
         </button>
         <button class="close-search" id="close-mobile-search">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"></path></svg>
         </button>
       </div>
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "f5076241-7c5a-47f3-87f2-17e03c2bb16b";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "f5076241-7c5a-47f3-87f2-17e03c2bb16b";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -391,13 +391,13 @@
         <!-- Categories will be loaded dynamically -->
       </ul>
     </li>
-  <li><a href="/">בית</a></li><li><a href="/collections-themes">נושאי אוספים</a></li><li><a href="/about">אודות</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
+  <li><a href="/">בית</a></li><li><a href="/collections-themes">נושאי אוספים</a></li><li><a href="/about">אודות</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
-      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
     </button>
     <div class="nav-search-results" id="nav-search-results"></div>
-  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button></div></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div></div>
 
     
 
@@ -1010,74 +1010,74 @@
 
 </section>
 
-<section class="contact-faq-section" dir="rtl" data-layout-spec="צור קשר-faq">
+<section class="contact-faq-section" dir="rtl" data-layout-spec="צור קשר-faq" id="contact-faq-section">
   <div class="contact-faq-container">
 
     <div class="contact-faq-header">
-      <span class="contact-faq-eyebrow">שאלות נפוצות</span>
-      <h2 class="contact-faq-title">כל מה שרצית לדעת על Noami</h2>
-      <p class="contact-faq-subtitle">מצאנו את השאלות שחוזרות על עצמן הכי הרבה — וענינו עליהן בשבילך</p>
+      <p class="zappy-editable"><span class="contact-faq-eyebrow" style="color: rgb(31, 26, 23) !important;">שאלות נפוצות</span>
+      </p><h2 class="contact-faq-title">כל מה שרצית לדעת על Noami</h2>
+      <p class="contact-faq-subtitle" style="color: rgb(31, 26, 23) !important;">מצאנו את השאלות שחוזרות על עצמן הכי הרבה — וענינו עליהן בשבילך</p>
     </div>
 
     <div class="contact-faq-list">
 
-      <article class="contact-faq-item">
+      <article class="contact-faq-item" data-grid-item-index="0">
         <div class="contact-faq-item-inner">
           <div class="contact-faq-q-row">
-            <span class="contact-faq-number">01</span>
-            <h3 class="contact-faq-question">תוך כמה זמן מקבלים תשובה לפנייה?</h3>
+            <p><span class="contact-faq-number" style="color: rgb(31, 26, 23) !important;">01</span>
+            </p><h3 class="contact-faq-question" style="cursor: pointer;" aria-expanded="false">תוך כמה זמן מקבלים תשובה לפנייה?</h3>
           </div>
-          <p class="contact-faq-answer">אנחנו עונות לכל פנייה תוך 24 שעות בימי חול. בסופי שבוע וחגים ייתכן עיכוב קטן — אבל תמיד נחזור אליך עם חיוך 💌</p>
+          <p class="contact-faq-answer" style="max-height: 0px; overflow: hidden; opacity: 0; transition: max-height 0.35s, opacity 0.25s, padding 0.25s; padding-top: 0px; padding-bottom: 0px;">אנחנו עונות לכל פנייה תוך 24 שעות בימי חול. בסופי שבוע וחגים ייתכן עיכוב קטן — אבל תמיד נחזור אליך עם חיוך 💌</p>
         </div>
       </article>
 
-      <article class="contact-faq-item">
+      <article class="contact-faq-item" data-grid-item-index="1">
         <div class="contact-faq-item-inner">
           <div class="contact-faq-q-row">
-            <span class="contact-faq-number">02</span>
-            <h3 class="contact-faq-question">איך אני יודעת איזה תכשיט מתאים לי?</h3>
+            <p><span class="contact-faq-number" style="color: rgb(31, 26, 23) !important;">02</span>
+            </p><h3 class="contact-faq-question" style="cursor: pointer;" aria-expanded="false">איך אני יודעת איזה תכשיט מתאים לי?</h3>
           </div>
-          <p class="contact-faq-answer">כל קולקציה של Noami מעוצבת סביב סגנון ומצב רוח שונה — פרחים, קיץ, יהלומים ועוד. אם את לא בטוחה, שלחי לנו הודעה עם תיאור קצר של הסגנון שלך ונשמח להמליץ בדיוק בשבילך.</p>
+          <p class="contact-faq-answer" style="max-height: 0px; overflow: hidden; opacity: 0; transition: max-height 0.35s, opacity 0.25s, padding 0.25s; padding-top: 0px; padding-bottom: 0px;">כל קולקציה של Noami מעוצבת סביב סגנון ומצב רוח שונה — פרחים, קיץ, יהלומים ועוד. אם את לא בטוחה, שלחי לנו הודעה עם תיאור קצר של הסגנון שלך ונשמח להמליץ בדיוק בשבילך.</p>
         </div>
       </article>
 
-      <article class="contact-faq-item">
+      <article class="contact-faq-item active" data-grid-item-index="2">
         <div class="contact-faq-item-inner">
           <div class="contact-faq-q-row">
-            <span class="contact-faq-number">03</span>
-            <h3 class="contact-faq-question">אפשר לקנות תכשיט כמתנה? יש אריזת מתנה?</h3>
+            <p><span class="contact-faq-number" style="color: rgb(31, 26, 23) !important;">03</span>
+            </p><h3 class="contact-faq-question" style="cursor: pointer;" aria-expanded="true">אפשר לקנות תכשיט כמתנה? יש אריזת מתנה?</h3>
           </div>
-          <p class="contact-faq-answer">בהחלט! התכשיטים שלנו הם מתנה מושלמת לכל אירוע — יום הולדת, בת מצווה, חגים או סתם כי כיף. כל הזמנה מגיעה באריזה מעוצבת של Noami שמוכנה לגיפט ישר מהקופסה 🎁</p>
+          <p class="contact-faq-answer" style="max-height: 104px; overflow: hidden; opacity: 1; transition: max-height 0.35s, opacity 0.25s, padding 0.25s;">בהחלט! התכשיטים שלנו הם מתנה מושלמת לכל אירוע — יום הולדת, , חגים או סתם כי כיף. כל הזמנה מגיעה באריזה מעוצבת של Noami שמוכנה לגיפט ישר מהקופסה 🎁</p>
         </div>
       </article>
 
-      <article class="contact-faq-item">
+      <article class="contact-faq-item" data-grid-item-index="3">
         <div class="contact-faq-item-inner">
           <div class="contact-faq-q-row">
-            <span class="contact-faq-number">04</span>
-            <h3 class="contact-faq-question">האם Noami פתוחה לשיתופי פעולה עם משפיעניות?</h3>
+            <p class="zappy-editable"><span class="contact-faq-number" style="color: rgb(31, 26, 23) !important;">04</span>
+            </p><h3 class="contact-faq-question" style="cursor: pointer;">האם Noami פתוחה לשיתופי פעולה עם משפיעניות?</h3>
           </div>
-          <p class="contact-faq-answer">כן! אנחנו אוהבות לעבוד עם קריאייטורים שמתחברות לאסתטיקה שלנו. אם את משפיענית, בלוגרית אופנה או יוצרת תוכן שאוהבת תכשיטים — כתבי לנו ונבדוק יחד אפשרויות שיתוף פעולה.</p>
+          <p class="contact-faq-answer" style="max-height: 0px; overflow: hidden; opacity: 0; padding-top: 0px; padding-bottom: 0px; transition: max-height 0.35s, opacity 0.25s, padding 0.25s;">כן! אנחנו אוהבות לעבוד עם קריאייטורים שמתחברות לאסתטיקה שלנו. אם את משפיענית, בלוגרית אופנה או יוצרת תוכן שאוהבת תכשיטים — כתבי לנו ונבדוק יחד אפשרויות שיתוף פעולה.</p>
         </div>
       </article>
 
-      <article class="contact-faq-item">
+      <article class="contact-faq-item" data-grid-item-index="4">
         <div class="contact-faq-item-inner">
           <div class="contact-faq-q-row">
-            <span class="contact-faq-number">05</span>
-            <h3 class="contact-faq-question">מה ההשראה מאחורי הקולקציות של Noami?</h3>
+            <p class="zappy-editable"><span class="contact-faq-number" style="color: rgb(31, 26, 23) !important;">05</span>
+            </p><h3 class="contact-faq-question" style="cursor: pointer;">מה ההשראה מאחורי הקולקציות של Noami?</h3>
           </div>
-          <p class="contact-faq-answer">כל קולקציה נולדת מרגע, תחושה או עונה — פריחת האביב, ים של קיץ, ברק של יהלום. אנחנו מחפשות את היופי בפרטים הקטנים ומתרגמות אותו לתכשיט שאת תרצי ללבוש כל יום.</p>
+          <p class="contact-faq-answer" style="max-height: 0px; overflow: hidden; opacity: 0; padding-top: 0px; padding-bottom: 0px; transition: max-height 0.35s, opacity 0.25s, padding 0.25s;">כל קולקציה נולדת מרגע, תחושה או עונה — פריחת האביב, ים של קיץ, ברק של יהלום. אנחנו מחפשות את היופי בפרטים הקטנים ומתרגמות אותו לתכשיט שאת תרצי ללבוש כל יום.</p>
         </div>
       </article>
 
-      <article class="contact-faq-item">
+      <article class="contact-faq-item" data-grid-item-index="5">
         <div class="contact-faq-item-inner">
           <div class="contact-faq-q-row">
-            <span class="contact-faq-number">06</span>
-            <h3 class="contact-faq-question">האם ניתן לרכוש תכשיטים ואביזרים אונליין?</h3>
+            <p class="zappy-editable"><span class="contact-faq-number" style="color: rgb(31, 26, 23) !important;">06</span>
+            </p><h3 class="contact-faq-question" style="cursor: pointer;">האם ניתן לרכוש תכשיטים ואביזרים אונליין?</h3>
           </div>
-          <p class="contact-faq-answer">כן, את יכולה לרכוש תכשיטים ואביזרים אונליין ישירות דרך האתר שלנו. המלאי מתעדכן באופן שוטף עם קולקציות חדשות ופריטים מיוחדים — כדאי לעקוב כדי לא לפספס! 🌸</p>
+          <p class="contact-faq-answer" style="max-height: 0px; overflow: hidden; opacity: 0; padding-top: 0px; padding-bottom: 0px; transition: max-height 0.35s, opacity 0.25s, padding 0.25s;">כן, את יכולה לרכוש תכשיטים ואביזרים אונליין ישירות דרך האתר שלנו. המלאי מתעדכן באופן שוטף עם קולקציות חדשות ופריטים מיוחדים — כדאי לעקוב כדי לא לפספס! 🌸</p>
         </div>
       </article>
 
@@ -1085,8 +1085,8 @@
 
     <div class="contact-faq-cta">
       <p class="contact-faq-cta-text">לא מצאת תשובה? נשמח לעזור</p>
-      <a href="#contact" class="contact-faq-btn">צרי קשר</a>
-    </div>
+      <p class="zappy-editable"><a href="#contact" class="contact-faq-btn" style="color: rgb(31, 26, 23) !important;" data-element-type="button" data-element-id="btn-1779535346572-tnxyld8zg" data-native-element="true">צרי קשר</a>
+    </p></div>
 
   </div>
 </section>
@@ -1255,7 +1255,7 @@
       <!-- Column 1: Company Info -->
       <div class="footer-col footer-brand">
         <a href="/" class="footer-logo-link" aria-label="עמוד הבית של Noami">
-          <img src="/assets/noami-jewelry-accessories-logo.webp" alt="Noami" class="logo" />
+          <img src="/assets/noami-jewelry-accessories-logo.webp" alt="Noami" class="logo">
         </a>
         <p class="footer-tagline">תכשיטים ואקססוריז שמספרים סיפור — מעוצבים באהבה, מוענקים ברגשות.</p>
         <div class="footer-badges">
