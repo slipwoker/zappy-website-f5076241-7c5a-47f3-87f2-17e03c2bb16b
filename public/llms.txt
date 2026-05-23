@@ -1,0 +1,100 @@
+# Noami — Generative Engine Optimization Map
+
+> A stylish and trendy jewelry brand targeting young women and teenage girls, offering vibrant collections with distinct themes such as flowers, summer, and diamonds. The brand has a youthful, fashionable energy with a focus on aesthetic appeal and modern style. The collections suggest a playful yet elegant identity, designed to resonate with trend-conscious young women who love accessorizing with personality.
+
+---
+
+## Pages
+
+### בית
+https://noami-f5076241.zappy5.app
+תכשיטים ואביזרים אונליין שנועדו בדיוק בשבילך! נוami מציעה קולקציות צבעוניות ועדכניות לנערות צעירות שאוהבות לבלוט. הזמיני עכשיו וקבלי סטייל אמיתי!
+
+### נושאי אוספים
+https://noami-f5076241.zappy5.app/collections-themes
+פרחים, קיץ ויהלומים — כל אוסף של Noami מספר סיפור משלו. גלי תכשיטים ואביזרים אונליין עם אישיות ייחודית שמתאימה בדיוק לסגנון שלך. בחרי את האוסף שלך היום!
+
+### אודות
+https://noami-f5076241.zappy5.app/about
+Noami היא לא רק מותג תכשיטים — זו תנועה של סטייל, ביטוי עצמי ואופנה צעירה. גלי מי אנחנו, מה מניע אותנו ולמה אלפי נערות בוחרות בנו לאביזרים ותכשיטים אונליין.
+
+### צור קשר
+https://noami-f5076241.zappy5.app/contact
+יש שאלה על תכשיטים ואביזרים אונליין? רוצה לדעת איזה אוסף מתאים לך? צוות Noami כאן בשבילך! צרי קשר עכשיו ונשמח לעזור לך למצוא את התכשיט שיגרום לך לזרוח.
+
+### Products
+https://noami-f5076241.zappy5.app/products
+המוצרים שלנו - Noami
+
+### Cart
+https://noami-f5076241.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://noami-f5076241.zappy5.app/checkout
+תשלום
+
+### Login
+https://noami-f5076241.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://noami-f5076241.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://noami-f5076241.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://noami-f5076241.zappy5.app/product/:slug
+פרטי המוצר - Noami
+
+### Category
+https://noami-f5076241.zappy5.app/category/:slug
+מוצרים - Noami
+
+## Legal & Policy
+
+### Privacy Policy
+https://noami-f5076241.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://noami-f5076241.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://noami-f5076241.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Noami
+A stylish and trendy jewelry brand targeting young women and teenage girls, offering vibrant collections with distinct themes such as flowers, summer, and diamonds. The brand has a youthful, fashionable energy with a focus on aesthetic appeal and modern style. The collections suggest a playful yet elegant identity, designed to resonate with trend-conscious young women who love accessorizing with personality.
+
+## Target Audience
+- נערות ונשים צעירות
+- בלוגריות אופנה
+- קונים מחפשי מתנות
+
+## Industry
+Jewelry & Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://noami-f5076241.zappy5.app/sitemap.xml
+- Robots: https://noami-f5076241.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://noami-f5076241.zappy5.app/llms-full.txt
+- Products (JSON): https://noami-f5076241.zappy5.app/products.json
+- Products (Google Merchant RSS): https://noami-f5076241.zappy5.app/product-feed.xml
